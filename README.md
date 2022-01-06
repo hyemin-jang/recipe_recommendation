@@ -1,7 +1,9 @@
 https://www.notion.so/98099331765449208ddfa87af66a33b9 
 # 플레이데이터 미니프로젝트 4 
 
-- JPA, Tomcat WAS 활용한 자취생 레시피 추천 웹사이트 만들기 
+- JPA, Tomcat WAS 활용한 자취생 레시피 추천 웹사이트 만들기
+- Language : Java, HTML, CSS
+- Tool : Eclips, VSC
 
 
 <hr>
@@ -15,3 +17,4 @@ https://www.notion.so/98099331765449208ddfa87af66a33b9
 > 👩‍👧‍👧 조원 : 😁 마유진, 😄 임우송, 😊 장혜민
 
 > 🗓 기간 : 2021.09.06 ~ 2021.09.09
+
